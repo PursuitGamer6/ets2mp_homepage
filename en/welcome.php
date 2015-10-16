@@ -12,7 +12,7 @@ $lang = array(
     'second_slider_point_3' => 'Dedicated Servers',
     'second_slider_point_4' => 'Great Community',
     'second_slider_point_5' => 'All that is missing is you!',
-    // ---- 
+    // ----
 
     // ---- Download ----
     // 'Get The Mod'
@@ -23,7 +23,7 @@ $lang = array(
 
     // Download Button Text
     'download_button' => 'Download Now',
-    // ---- 
+    // ----
 
     // ---- Advantages ----
     //Community Header
@@ -42,16 +42,16 @@ $lang = array(
     'features_header' => 'Advanced Features',
 
     // Features Content
-    'features_content' => "When we say multiplayer, we mean it! Avitars, Nicknames, Ingame Chat and more. We're always adding new features to improve the game experience.",
-    // ---- 
+    'features_content' => "When we say multiplayer, we mean it! Avatars, Nicknames, Ingame Chat and more. We're always adding new features to improve the game experience.",
+    // ----
 
     // ---- Testomonials ----
     // Testomonial Header
     'testomonial_header' => 'Hear what other players have to say!',
-    
+
     // Testomonial Content
     'testomonial_content' => 'We get a lot of input from our players. And we listen! Here are a few of our favorite words sent to us.',
-    // ---- 
+    // ----
 
 
 );
