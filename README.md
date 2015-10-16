@@ -14,8 +14,9 @@ As soon as possible - I don't have time to check github every minute and update 
 How to translate?
 ===================
 
-1. Copy the ```en``` folder to your ISO 639-1 shortcode (eg. Polish is pl, Norwegian Bokmål is nb, English is en, etc. these can be found on eg. wikipedia in the infobox on the side)
-2. Translate all messages to your langauge keep this format:
+1. Create a new branch and check it out
+2. Copy the ```en``` folder to your ISO 639-1 shortcode (eg. Polish is pl, Norwegian Bokmål is nb, English is en, etc. these can be found on eg. wikipedia in the infobox on the side)
+3. Translate all messages to your langauge keep this format:
 ```
 'key' => 'message',
 ```
